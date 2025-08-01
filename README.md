@@ -1,10 +1,12 @@
 # Election Scraper
 
-This script creates a CSV file, that contains election results form a website: www.volby.cz
+This script creates a CSV file, that contains election results form [volby.cz](https://www.volby.cz/pls/ps2017nss/ps3?xjazyk=CZ)
+
+Choose any region ('X') from the link above.
 
 ## Installation
 
-First, download needed libraries using pip:
+Download needed libraries using pip:
 
 ```
 pip install -r requirements.txt
