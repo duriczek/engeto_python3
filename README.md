@@ -1,8 +1,9 @@
-Election Scraper
-Engeto Akademy - Python project 3
+## Election Scraper
+
+** Engeto Akademy - Python project 3 **
 This script creates a CSV file, that contains election results form a website: wwww.volby.cz
 
-Installation
+# Installation
 
 pip install -r requirements.txt
 
