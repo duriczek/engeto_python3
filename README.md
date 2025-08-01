@@ -1,4 +1,4 @@
-# Election Scraper
+# Elections Scraper
 
 This script creates a CSV file, that contains election results form [volby.cz](https://www.volby.cz/pls/ps2017nss/ps3?xjazyk=CZ)
 
@@ -21,5 +21,5 @@ To run, two arguments are needed in order:
 **Example:**
 
 ```
-python election-scraper.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=14&xnumnuts=8106" "Ostrava-mesto.csv"
+python elections_scraper.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=14&xnumnuts=8106" "Ostrava-mesto.csv"
 ```
